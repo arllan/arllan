@@ -2,7 +2,7 @@
 
 
 ## :chicken: Who am I?
--Backend developer and frontend web mobile.
+-Developer and frontend web mobile.
 
 
 ## :iphone: Technology
