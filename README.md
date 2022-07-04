@@ -26,11 +26,8 @@ I'm from 🇧🇷 Brazil and currently I live in [Recife-PE](https://pt.wikipedi
 [<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />](#)
 
-
-
-
-![Arllan's github stats](https://github-readme-stats.vercel.app/api?username=arllan) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arllan&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arllan&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arllan&layout=compact)
 
 ![GitHub Followers](https://img.shields.io/github/followers/arllan?style=social)  [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/arllan-pablo-431974106/)](https://www.linkedin.com/in/arllan-pablo-431974106/)
 
